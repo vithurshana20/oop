@@ -1,0 +1,161 @@
+import { circle } from "./circle";
+import { student } from "./student";
+
+console.log("Hello, world!");
+
+const c1 = new circle();
+c1.setRadius(5);
+console.log("Area: " + c1.getArea());
+console.log("Perimeter: " + c1.getPerimeter());
+
+const c2 = new circle();
+c2.setRadius(10);
+console.log("Area: " + c2.getArea());
+console.log("Perimeter: " + c2.getPerimeter());
+
+ 
+const s1 = new student("John Doe", "12345", 85, 90, 78);
+console.log(`Name: ${s1.name}`);
+console.log(`Reg No: ${s1.regNo}`);
+console.log(`HTML: ${s1.html}`);
+console.log(`JS: ${s1.js}`);
+console.log(`Git: ${s1.git}`);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
