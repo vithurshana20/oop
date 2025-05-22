@@ -17,4 +17,6 @@ console.log(`Reg No: ${s1.regNo}`);
 console.log(`HTML: ${s1.html}`);
 console.log(`JS: ${s1.js}`);
 console.log(`Git: ${s1.git}`);
+console.log(`Average Marks: ${s1.AVGMarks}`);
+console.log(`Grade: ${s1.grade}`);
 //# sourceMappingURL=index.js.map
